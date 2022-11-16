@@ -68,5 +68,20 @@
     text-decoration: none;
 }
 
+.br{
+    border-radius: 50px;
+
+}
+
+.frm{
+    
+    padding-left: 250px;
+}
+
+.row{
+    justify-content:space-between;
+    position: relative;
+}
+
 
 /* Dashboard Design */
